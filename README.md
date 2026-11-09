@@ -10,6 +10,7 @@
 |---|---|---|
 | Lab1 | Обзор Google Cloud и исследование основных сервисов | [lab1/lab1_report.md](lab1/lab1_report.md) |
 | Lab2 | Исследование Cloud Run | [lab2/lab2_report.md](lab2/lab2_report.md) |
+| Lab3 | Исследование Cloud Storage | [lab3/lab3_report.md](lab3/lab3_report.md) |
 
 ## Лицензия
 
